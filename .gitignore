@@ -2,6 +2,8 @@
 .gradle
 /build/
 gradle-app.setting
+build
+out
 
 !gradle-wrapper.jar
 
